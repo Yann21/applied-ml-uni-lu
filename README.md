@@ -14,7 +14,7 @@ A description of each column can be found in the file `HomeCredit_columns_descri
 
 ## Part 1
 
-The first part of the project ([part1.ipynb](./part1.ipynb)) is to be submitted for the session of **October 12th 2023**.  
+The first part of the project ([part1.ipynb](./part1.ipynb)) is to be submitted by **October 15th 2023**.  
 Submission must be done via [Moodle](https://moodle.uni.lu/mod/assign/view.php?id=323089).
 
 ## Part 2
