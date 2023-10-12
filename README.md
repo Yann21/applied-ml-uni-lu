@@ -15,7 +15,12 @@ A description of each column can be found in the file `HomeCredit_columns_descri
 ## Part 1
 
 The first part of the project ([part1.ipynb](./part1.ipynb)) is to be submitted for the session of **October 12th 2023**.  
-:information_source: There is, to date, no submission form on Moodle due to some access issues. This however might eventually be setup for the submission day. By then, be ready to submit it during the 2nd project session (October 12th 2023).
+Submission must be done via [Moodle](https://moodle.uni.lu/mod/assign/view.php?id=323089).
+
+## Part 2
+
+The first part of the project ([part1.ipynb](./part1.ipynb)) is to be submitted by **November 09th 2023**.  
+Submission must be done via [Moodle](https://moodle.uni.lu/mod/assign/view.php?id=323587).
 
 ## Contact
 
