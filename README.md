@@ -22,6 +22,11 @@ Submission must be done via [Moodle](https://moodle.uni.lu/mod/assign/view.php?i
 The second part of the project ([part2.ipynb](./part2.ipynb)) is to be submitted by **November 09th 2023**.  
 Submission must be done via [Moodle](https://moodle.uni.lu/mod/assign/view.php?id=323587).
 
+## Part 3
+
+The second part of the project ([part3.ipynb](./part3.ipynb)) is to be submitted by **November 27th 2023**.  
+Submission must be done via Moodle.
+
 ## Contact
 
 Don't hesitate to contact us for any question or remark:
